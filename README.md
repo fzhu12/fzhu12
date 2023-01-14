@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m Feiyang Zhu
+- 🌱 I’m a CS student at Columbia University
+- 📫 Feel free to reach me at f.zhu@columbia.edu
